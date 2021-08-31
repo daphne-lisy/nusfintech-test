@@ -1,2 +1,5 @@
-# nusfintech-test
-This is a test repository to learn more about GitHub 
+# testing 
+
+## this text is small
+
+lorem ipsum dummy text 123
